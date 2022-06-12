@@ -1,0 +1,85 @@
+
+.harvestbody{
+    height: 8vh;
+    width: 80%;
+    border-radius: 10px;
+    border: solid 0.5px blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.harvestbodys{
+    height: 8vh;
+    width: 100%;
+    border-radius: 10px;
+    border: solid 0.5px blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.harvestbody h3{
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+  .boxbutton{
+    padding: 5px 15px;
+    border: solid 0.5px blue;
+    width: 100%;
+    height: 8vh;
+    color: aliceblue;
+    border-radius: 10px;
+    background-color: deepskyblue;
+  }
+
+.button{
+    text-decoration: none;
+    padding: 15px 120px;
+    background-color:deepskyblue;
+    width: 100%;
+    color: aliceblue;
+    border: 0px solid deepskyblue;
+    border-radius: 20px;
+}
+
+.images{
+    width: 9%;
+}
+
+.button .h2{
+    font-size: 1.5rem;
+}
+
+.textbody{
+    display: flex;
+    height: 59vh;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    color: aliceblue;
+}
+
+.textbody button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #7858A6;
+    border-radius: 15px;
+    border: solid 1px lightblue;
+    color: aliceblue;
+}
+
+.inputbody{
+    padding: 11px 0;
+    text-decoration: none;
+    background: none;
+    border: 0;
+    color: white;
+}
+
+.textbody h1{
+    font-size: 3rem;
+}
